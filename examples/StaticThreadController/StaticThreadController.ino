@@ -41,7 +41,7 @@ void setup(){
 	hisThread.setInterval(250);
 
 	// Set interval for theThread using StaticThreadController interface
-	controll[3].setInterval(375);
+	controll.setInterval(375);
 }
 
 void loop(){
